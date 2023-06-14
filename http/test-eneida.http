@@ -1,0 +1,12 @@
+# GET https://uo08ifmyxe.execute-api.us-east-1.amazonaws.com/Prod/hello
+
+###
+GET https://uo08ifmyxe.execute-api.us-east-1.amazonaws.com/Prod/helloEneida
+
+
+###
+
+GET https://uo08ifmyxe.execute-api.us-east-1.amazonaws.com/Prod/servlet/hello
+
+###
+GET https://uo08ifmyxe.execute-api.us-east-1.amazonaws.com/Prod/vertx/hello
